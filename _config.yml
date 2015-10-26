@@ -2,7 +2,7 @@ name: 朴树
 markdown: redcarpet
 pygments: true
 permalink: /:year/:month/:title/
-url: ../
+url: ../pushu
 author:
     name: Nii Adjetey Sowah
     twitter: #
