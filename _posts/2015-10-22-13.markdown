@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-10-22 23:26:12
+photo: 13.jpg
+caption_header: 
+caption: 我曾经像你像他像那野草野花</br>绝望着也渴望着</br>也哭也笑平凡着
+---

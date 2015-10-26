@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-10-26 23:26:12
+photo: 11.jpg
+caption_header: 
+caption: 我们路过高山</br>我们路过湖泊</br>我们路过森林路过沙漠
+---

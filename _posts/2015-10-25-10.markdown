@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-10-25 23:26:12
+photo: 10.jpg
+caption_header: 
+caption: 我真的想回来</br>在我死的那刻</br>它们在召唤我</br>我为它们而生活
+---

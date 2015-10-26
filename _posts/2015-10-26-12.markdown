@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-10-26 23:26:12
+photo: 12.jpg
+caption_header: 
+caption: 我知道远方有一盏灯火 在为我祈祷</br>而你可知道 我的汗水将淹没寒冷的异乡
+---

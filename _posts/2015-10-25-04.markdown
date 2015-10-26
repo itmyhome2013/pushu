@@ -1,6 +1,6 @@
 ---
 layout: default
-date:   2015-10-26 23:26:12
+date:   2015-10-25 23:26:12
 photo: 4.jpg
 caption_header: 
 caption: 我曾经跨过山河大海</br>也穿过人山人海</br>我曾经拥有着的一切</br>直到看见平凡才是唯一的答案</br>

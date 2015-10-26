@@ -1,6 +1,6 @@
 ---
 layout: default
-date:   2015-10-26 23:26:12
+date:   2015-10-26 23:21:12
 photo: 6.jpg
 caption_header: 
 caption: 都会好的 总会有的<br>那些风雨 还有阴霾<br>关于未来 就请你坦然
