@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-10-26 23:26:12
+photo: 3.jpg
+caption_header: 
+caption: 我是这耀眼的瞬间</br>是划过天边的刹那火焰</br>我为你来看我不顾一切</br>我将熄灭永不能再回来
+---

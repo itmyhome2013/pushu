@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-10-26 23:26:12
+photo: 2.jpg
+caption_header: 
+caption: 当你错身而过的瞬间</br>忽然间想要去很远</br>和你去看繁华世界
+---

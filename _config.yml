@@ -1,0 +1,8 @@
+name: 朴树
+markdown: redcarpet
+pygments: true
+permalink: /:year/:month/:title/
+url: ../
+author:
+    name: Nii Adjetey Sowah
+    twitter: #

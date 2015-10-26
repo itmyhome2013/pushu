@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-10-26 23:26:12
+photo: 9.jpg
+caption_header: 
+caption: 人们都是这样地匆忙长大</br>那些疑问从来没有人回答
+---

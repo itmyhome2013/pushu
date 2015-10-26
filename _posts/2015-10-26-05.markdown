@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-10-26 23:26:12
+photo: 5.jpg
+caption_header: 
+caption: 我什么都忘了 赤裸得像天堂</br>我爱这快乐 孩子般快乐 让我在阳光下</br>我爱这冲动 恋爱的冲动 嘿当我迎着风
+---

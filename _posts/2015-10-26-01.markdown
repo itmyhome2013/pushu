@@ -1,0 +1,7 @@
+---
+layout: default
+date:   2015-10-26 23:26:12
+photo: 1.jpg
+caption_header: 
+caption: 他们都老了吧</br>他们在哪里呀</br>我们就这样 各自奔天涯
+---
